@@ -1,0 +1,395 @@
+{
+  "basics": {
+    "name": "Sarang Pimputkar",
+    "label": "DevOps | Cloud | IaaC | PaaS",
+    "picture": "cv/photo.jpg",
+    "email": "sarang.pimputkar@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "DevOps & Cloud Architect with 17 years of experience on Infrastructure design, Application Environment setup, SDLC and DevOps across Telecom, Retail, Banking and Insurance domains. Proven track record of delivering high availability platforms with mature DevOps practises. Certified Google Cloud Architect, AWS Solution Architect, Kubernetes Administrator and SAFe Agilist.",
+    "location": {
+      "countryCode": "AU",
+      "address": "Melbourne, VIC"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "sarang-pimputkar",
+        "url": "https://www.linkedin.com/in/sarang-pimputkar/"
+      },
+      {
+        "network": "GitHub",
+        "username": "sarangpimputkar",
+        "url": "https://github.com/sarangpimputkar"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "iGreenData",
+      "endDate": "",
+      "highlights": [],
+      "position": "Chief Engineer",
+      "startDate": "2019-07-31",
+      "summary": null,
+      "website": ""
+    },
+    {
+      "name": "Cognizant",
+      "endDate": "2019-06-30",
+      "highlights": [],
+      "position": "Principal Architect (Technology)",
+      "startDate": "2017-01-31",
+      "summary": null,
+      "website": "https://www.cognizant.com/en-au/"
+    },
+    {
+      "name": "Infosys",
+      "endDate": "2017-01-31",
+      "highlights": [],
+      "position": "Principal Consultant",
+      "startDate": "2003-10-31",
+      "summary": "",
+      "website": "https://www.infosys.com/"
+    },
+    {
+      "name": "Tara Ultimo",
+      "endDate": "2003-10-31",
+      "highlights": [],
+      "position": "Process Engineer",
+      "startDate": "2002-03-31",
+      "summary": "",
+      "website": ""
+    }
+  ],
+  "volunteer": [],
+  "projects": [
+    {
+      "name": "ANZ Institutional Data and Digital Banking",
+      "description": "",
+      "highlights": [
+        "DevSecOps Lead for suite of customer facing applications and mobile apps for Institutional Customers",
+        "Containerising legacy applications and moving to Kubernetes (OpenShift and AWS EKS)",
+        "Infrastructure provisioning in AWS using Terraform and Codefresh"
+      ],
+      "keywords": [],
+      "startDate": "2019-06-01",
+      "endDate": "",
+      "url": "",
+      "roles": [
+        "DevOps Lead"
+      ],
+      "entity": "",
+      "type": "DevOps, Cloud"
+    },
+    {
+      "name": "ANZ Data Services",
+      "description": "",
+      "highlights": [
+        "Building DevOps capability for On Prem ETL, Data Warehouse and Analysis platforms - QlikSense, DataVault, Enterprise Big Data",
+        "Integrating business workflow with Atlassian tools",
+        "Setup and DevOps for Customer Data Ecosystem in Google Cloud using Terraform, GKE, CloudBuild and Airflow"
+      ],
+      "keywords": [],
+      "startDate": "2017-01-01",
+      "endDate": "2019-06-01",
+      "url": "",
+      "roles": [
+        "DevOps Lead"
+      ],
+      "entity": "",
+      "type": "DevOps, Cloud"
+    },
+    {
+      "name": "NBN (SAIL)",
+      "description": "",
+      "highlights": [
+        "Infrastructure and DevOps Architect for NBS's new middleware layer SAIL",
+        "Designed and implemented HA and DR solution for integration platform.",
+        "Setup automated CI/CD framework for environment provisioning, automated build, deployment.",
+        "Automated environments dashboard, Monitoring and alerting setup using Splunk / Nagios."
+      ],
+      "keywords": [],
+      "startDate": "2015-10-01",
+      "endDate": "2016-12-01",
+      "url": "",
+      "roles": [
+        "DevOps Lead"
+      ],
+      "entity": "",
+      "type": "DevOps, Infrastucture"
+    },
+    {
+      "name": "TELSTRA (T-REX)",
+      "description": "",
+      "highlights": [
+        "Infrastructure and DevOps Architect for middleware migration project",
+        "Setup new PaaS Platform and migrate legacy application to PaaS. Setup HA and DR.",
+        "Setup automated CI/CD framework for environment provisioning, automated build, deployment.",
+        "Worked with Network team to simplify routing rules"
+      ],
+      "keywords": [],
+      "startDate": "2014-07-01",
+      "endDate": "2015-09-01",
+      "url": "",
+      "roles": [
+        "DevOps Lead"
+      ],
+      "entity": "",
+      "type": "DevOps, Infrastucture"
+    },
+    {
+      "name": "TELSTRA (ISL)",
+      "description": "",
+      "highlights": [
+        "Platform Support Lead for Telstra's Integarted Services Layer middleware stack",
+        "Implemented Blue-Green Zero outage deployments",
+        "Automated builds and deployments",
+        "Supported major upgarde platform (WPS 6 to 7 / Solaris 9 to 10)",
+        "Service Isolation : split monolith insto smaller services"
+      ],
+      "keywords": [],
+      "startDate": "2009-10-01",
+      "endDate": "2015-09-01",
+      "url": "",
+      "roles": [
+        "Platform Lead"
+      ],
+      "entity": "",
+      "type": "DevOps, Infrastucture"
+    },
+    {
+      "name": "MYER (OMNI)",
+      "description": "",
+      "highlights": [
+        "Platform Support Lead for Myer's Websphere Commerce Server Platform",
+        "Automated builds and deployments", 
+        "Setup monitoring and alerting for application availability",
+        "Application Performance Tuning"
+      ],
+      "keywords": [],
+      "startDate": "2012-11-01",
+      "endDate": "2013-11-01",
+      "url": "",
+      "roles": [
+        "Platform Lead"
+      ],
+      "entity": "",
+      "type": "DevOps, Platfrom Support"
+    },
+    {
+      "name": "AT&T (EMAS)",
+      "description": "",
+      "highlights": [
+        "Team Lead : middleware application deployments and releases for WAS, WMQ and in-house middleware applications",
+        "Release manaegment : sreamlined elease management process reducing lead time for production deployment from 5 days to 2 days", 
+        "Automated post deployment verifications : Reduced outage windows"
+      ],
+      "keywords": [],
+      "startDate": "2006-05-01",
+      "endDate": "2009-09-01",
+      "url": "",
+      "roles": [
+        "Platform Lead"
+      ],
+      "entity": "",
+      "type": "Release Management"
+    },
+    {
+      "name": "CapitalOne Integrated Production Support",
+      "description": "",
+      "highlights": [
+        "Mainframe application support. Incident resolutions within SLA. Root cause analysis.",
+        "Change and release co-ordination. Maintained KMDB.", 
+        "SLA Reporting Automation"
+      ],
+      "keywords": [],
+      "startDate": "2004-11-01",
+      "endDate": "2006-04-01",
+      "url": "",
+      "roles": [
+        "Platform Support"
+      ],
+      "entity": "",
+      "type": "Release Management"
+    },
+    {
+      "name": "Aetna AAS",
+      "description": "",
+      "highlights": [
+        "Mainframe application support. Bug fixes. Data Fixes.",
+        "Automated test data load in IDMS DML/O using Rumba macros.", 
+        "SCM Management for team."
+      ],
+      "keywords": [],
+      "startDate": "2004-11-01",
+      "endDate": "2006-04-01",
+      "url": "",
+      "roles": [
+        "Platform Support"
+      ],
+      "entity": "",
+      "type": "Release Management"
+    }
+
+  ],
+  "education": [
+    {
+      "institution": "University of Mumbai",
+      "area": "Mechanical",
+      "studyType": "Bchelor of Engineering",
+      "startDate": "1997-12-31",
+      "endDate": "2001-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "date": "2020-08",
+      "issuer": "CNCF",
+      "url": ""
+    },
+    {
+      "name": "GCP Professional Cloud Architect",
+      "date": "2018-10",
+      "issuer": "Google Cloud",
+      "url": ""
+    },
+    {
+      "name": "AWS Certified Solution Architect",
+      "date": "2016-10",
+      "issuer": "AWS",
+      "url": ""
+    },
+    {
+      "name": "Oracle Cloud Infrastructure Foundations",
+      "date": "2020-08",
+      "issuer": "Oracle",
+      "url": ""
+    },
+    {
+      "name": "SAFE Aglist 4.5",
+      "date": "2018-04",
+      "issuer": "Scaled Agile Inc",
+      "url": ""
+    },
+    {
+      "name": "WebSphere Application Server Administration",
+      "date": "2014-07",
+      "issuer": "IBM",
+      "url": ""
+    },
+    {
+      "name": "SAFE Aglist",
+      "date": "2020-08",
+      "issuer": "Oracle",
+      "url": ""
+    },
+    {
+      "name": "Programming in HTML5 with JavaScript and CSS3 (70-480)",
+      "date": "2014-04",
+      "issuer": "Microsoft",
+      "url": ""
+    },
+    {
+      "name": "TOGAF 9.1 Training",
+      "date": "2015-08",
+      "issuer": "Enterprise Architects",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Cloud",
+      "level": "",
+      "keywords": [
+        "AWS", "GCP", "Terraform", "EKS", "EC2", "VPC", "GKE", "CloudBuild"
+        
+      ]
+    },
+    {
+      "name": "PaaS / Containers",
+      "level": "",
+      "keywords": [ 
+        "Kubernetes", "Openshift", "EKS", "GKE", "Istio", "Docker", "Podman", "TwistLock", "Buildah", "Kaniko", "Tibco SilverFabric"
+      ]
+    },
+    {
+      "name": "DevSecOps",
+      "level": "",
+      "keywords": [ 
+        "Jenkins", "Bamboo", "UrbanCodeDeploy", "TeamCity", "CodeFresh", "GoCD" , "GitHub", "BitBucket", "GitLab", "RTC", "ClearCase", "SVN", "SonarQube", "Fortify", "BlackDuck", "CheckMarx", "TwistLock", "Hashicorp Vault","Artifactory", "Nexus", "Maven", "Ant"
+      ]
+    },
+    {
+      "name": "Application / Web Servers",
+      "level": "",
+      "keywords": [
+        "WAS", "WPS", "WCS", "Apache HTTP Server", "IHS", "nginx"
+      ]
+    },
+    {
+      "name": "Middleware",
+      "level": "",
+      "keywords": [
+        "JBOSS Fuse", "IBM MQ", "ActiveMQ", "RabbitMQ", "Tibco EMS"
+      ]
+    },
+    {
+      "name": "Configuration Management",
+      "level": "",
+      "keywords": [ 
+        "Ansible", "Puppet"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "level": "",
+      "keywords": [
+        "Bash", "Powershell", "Groovy", "Java Script", "Python", "Jacl/Jython"
+
+      ]
+    },
+    {
+      "name": "Monitoring",
+      "level": "",
+      "keywords": [
+        "Splunk", "Nagios", "Dynatrace", "StackDriver"
+      ]
+    },
+    {
+      "name": "Data",
+      "level": "",
+      "keywords": [
+        "Oracle", "Cloudera/ Big Data", "QlikSense", "Data Vault", "AirFlow"
+      ]
+    },
+    {
+      "name": "Delivery / Support Frameworks",
+      "level": "",
+      "keywords": [
+        "Agile", "Kanban", "Scrum", "ITIL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": ""
+    },
+    {
+      "language": "Marathi",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": []
+}
