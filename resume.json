@@ -6,7 +6,7 @@
     "email": "",
     "phone": "",
     "website": "https://sarangpimputkar.github.io/cv/",
-    "summary": "DevOps & Cloud Architect with 17 years of experience on Infrastructure design, Application Environment setup, SDLC and DevOps across Telecom, Retail, Banking and Insurance domains. Proven track record of delivering high availability platforms with mature DevOps practises. Certified Google Cloud Architect, AWS Solution Architect, Kubernetes Administrator and SAFe Agilist.",
+    "summary": "DevOps & Cloud Architect with 19 years of experience on Infrastructure design, Application Environment setup, SDLC and DevOps across Telecom, Retail, Banking and Insurance domains. Proven track record of delivering high availability platforms with mature DevOps practises. Certified Google Cloud Architect, AWS Solution Architect, Kubernetes Administrator and SAFe Agilist.",
     "location": {
       "countryCode": "AU",
       "address": "Melbourne, VIC"
@@ -65,7 +65,7 @@
   "volunteer": [],
   "projects": [
     {
-      "name": "ANZ Institutional Data and Digital Banking",
+      "name": "ANZ Institutional Wholesale Digital",
       "description": "",
       "highlights": [
         "DevSecOps Lead for suite of customer facing applications and mobile apps for Institutional Customers",
@@ -104,7 +104,7 @@
       "name": "NBN (SAIL)",
       "description": "",
       "highlights": [
-        "Infrastructure and DevOps Architect for NBS's new middleware layer SAIL",
+        "Infrastructure and DevOps Architect for NBN's new middleware layer SAIL",
         "Designed and implemented HA and DR solution for integration platform.",
         "Setup automated CI/CD framework for environment provisioning, automated build, deployment.",
         "Automated environments dashboard, Monitoring and alerting setup using Splunk / Nagios."
@@ -322,7 +322,7 @@
       "name": "DevSecOps",
       "level": "",
       "keywords": [ 
-        "Jenkins", "Bamboo", "UrbanCodeDeploy", "TeamCity", "CodeFresh", "GoCD" , "GitHub", "BitBucket", "GitLab", "RTC", "ClearCase", "SVN", "SonarQube", "Fortify", "BlackDuck", "CheckMarx", "TwistLock", "Hashicorp Vault","Artifactory", "Nexus", "Maven", "Ant"
+        "Jenkins", "GitHub", "CodeFresh", "BlackDuck", "GitOps", "ArgoCD", "CheckMarx", "TwistLock", "Hashicorp Vault","Artifactory", "Bamboo", "UrbanCodeDeploy", "TeamCity", "GoCD" , "BitBucket", "GitLab", "RTC", "ClearCase", "SVN", "SonarQube", "Fortify", "Nexus", "Maven", "Ant"
       ]
     },
     {
@@ -392,4 +392,4 @@
   ],
   "interests": [],
   "references": []
-}
+} 
